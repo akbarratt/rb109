@@ -2,6 +2,14 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Day 157: Saturday July 31, 2021
+
+**Pomodoros Completed**: 5
+
+**Today's Progress**: Taking notes on the video series. Halfway through part 2.
+
+**My Feelings**: Starting to settle into a rhythm for this new section of exam prep. It takes a lot more active concentration and can be tiring, but I'm trying to build up some stamina in addition to keeping up with daily chores.
+
 ### Day 156: Friday July 30, 2021
 
 **Pomodoros Completed**: 5
