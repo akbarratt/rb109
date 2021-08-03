@@ -2,6 +2,14 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Day 159: August 2, 2021
+
+**Pomodoros Completed**: 7
+
+**Today's Progress**: Complete live session videos and notes.
+
+**My Feelings**: Always feels good when I can get a good amount of work done on a Monday. Sets the tone for the rest of the week.
+
 ### Day 158: August 1, 2021
 
 **Pomodoros Completed**: 0
