@@ -2,6 +2,14 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Day 160: August 3, 2021
+
+**Pomodoros Completed**: 8
+
+**Today's Progress**: Reviewed notes from live session, synthesized and rewrote parts, created new Anki cards from the material. Began reviewing assessment criteria.
+
+**My Feelings**: Today was a slog! Really hard for me to get back into the mindset of taking notes. Before I was letting the material kind of wash over me, now I have to dig in and make sure I really understand the concepts. It's tough!
+
 ### Day 159: August 2, 2021
 
 **Pomodoros Completed**: 7
