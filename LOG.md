@@ -2,6 +2,14 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Day 162: August 5, 2021
+
+**Pomodoros Completed**: 5
+
+**Today's Progress**: Finish Srdjan's blog, review video
+
+**My Feelings**: Not feeling my best today, so it was a bit tough to stay on top of work today. Plus the mental block of getting started because my coursework right now is so nebulous. Trying to drill down on a strategy.
+
 ### Day 161: August 4, 2021
 
 **Pomodoros Completed**: 3
