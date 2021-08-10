@@ -2,7 +2,15 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
-### Day 162: August 5, 2021
+### Days 163-166: Friday August 6, 2021 - Monday August 9, 2021
+
+**Pomodoros Completed**: 0
+
+**Today's Progress**: N/A
+
+**My Feelings**: Had to take 2 days off, which cascaded into 4 days. Had a convergence of baby shower, back to school for our high schooler, and a pain flare. Trying to get back in it.
+
+### Day 162: Thursday August 5, 2021
 
 **Pomodoros Completed**: 5
 
@@ -10,7 +18,7 @@ Logging my progress so I can make commits even on days I push no code. Numbering
 
 **My Feelings**: Not feeling my best today, so it was a bit tough to stay on top of work today. Plus the mental block of getting started because my coursework right now is so nebulous. Trying to drill down on a strategy.
 
-### Day 161: August 4, 2021
+### Day 161: Wednesday August 4, 2021
 
 **Pomodoros Completed**: 3
 
@@ -18,7 +26,7 @@ Logging my progress so I can make commits even on days I push no code. Numbering
 
 **My Feelings**: Got a late start today and ran out of time. Frustrating. Had a hard time prioritizing today.
 
-### Day 160: August 3, 2021
+### Day 160: Tuesday August 3, 2021
 
 **Pomodoros Completed**: 8
 
@@ -26,7 +34,7 @@ Logging my progress so I can make commits even on days I push no code. Numbering
 
 **My Feelings**: Today was a slog! Really hard for me to get back into the mindset of taking notes. Before I was letting the material kind of wash over me, now I have to dig in and make sure I really understand the concepts. It's tough!
 
-### Day 159: August 2, 2021
+### Day 159: Monday August 2, 2021
 
 **Pomodoros Completed**: 7
 
@@ -34,7 +42,7 @@ Logging my progress so I can make commits even on days I push no code. Numbering
 
 **My Feelings**: Always feels good when I can get a good amount of work done on a Monday. Sets the tone for the rest of the week.
 
-### Day 158: August 1, 2021
+### Day 158: Sunday August 1, 2021
 
 **Pomodoros Completed**: 0
 
