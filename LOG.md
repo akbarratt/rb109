@@ -2,6 +2,14 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Days 167: Tuesday August 10, 2021
+
+**Pomodoros Completed**: 6
+
+**Today's Progress**: Catching up on news from my missed days, begin reviewing blog series on Object Passing in Ruby and taking notes, catching up on Anki deck.
+
+**My Feelings**: Today was the first day back to school and had some COVID related errands so still getting back in the groove of things, but it's a start.
+
 ### Days 163-166: Friday August 6, 2021 - Monday August 9, 2021
 
 **Pomodoros Completed**: 0
