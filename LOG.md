@@ -2,6 +2,14 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Days 169: Thursday August 12, 2021
+
+**Pomodoros Completed**: 7
+
+**Today's Progress**: Reviewing object passing and taking notes.
+
+**My Feelings**: Had a much better day today. Wrote out my anxieties and did some planning before sitting down to work. That seemed to help a lot. Revising notes and synthesizing concepts is tough work, especially since I find it impossible to do with music on, but I'm slowly making progress.
+
 ### Days 168: Wednesday August 11, 2021
 
 **Pomodoros Completed**: 1
