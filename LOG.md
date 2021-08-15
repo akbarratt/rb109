@@ -2,6 +2,14 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Days 171: Saturday August 14, 2021
+
+**Pomodoros Completed**: 2
+
+**Today's Progress**: Writing out my study plan for the weekend and then not doing it
+
+**My Feelings**: Focusing has been really, really tough the last few days. A lot of things on my mind. Really pulling out every trick in the book and not having a lot of success. Trying to write it all out and see if that helps.
+
 ### Days 170: Friday August 13, 2021
 
 **Pomodoros Completed**: 7
