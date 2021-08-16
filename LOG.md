@@ -2,6 +2,14 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Days 172: Sunday August 15, 2021
+
+**Pomodoros Completed**: 0
+
+**Today's Progress**: Worked on my personal site a bit today.
+
+**My Feelings**: I've been officially subscribed at Launch School for 6 months. Mixed feelings. Happy that I'm sticking with it, but a little anxious about assessment prep. This is the first big hurdle and until I jump it I'm kind of in a limbo of self-doubt. Gotta keep pushing ahead.
+
 ### Days 171: Saturday August 14, 2021
 
 **Pomodoros Completed**: 2
