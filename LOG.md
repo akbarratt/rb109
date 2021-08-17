@@ -2,6 +2,14 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Days 173: Monday August 16, 2021
+
+**Pomodoros Completed**: 5
+
+**Today's Progress**: Continued my review of object passing, taking notes, making new notecards
+
+**My Feelings**: Could have done more today. Let household chores take priority. Still, a good start to the week. Feel I can do more tomorrow. Always hard coming off an unfocused weekend.
+
 ### Days 172: Sunday August 15, 2021
 
 **Pomodoros Completed**: 0
