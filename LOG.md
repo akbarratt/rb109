@@ -2,6 +2,23 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Days 174: Tuesday August 17, 2021
+
+**Pomodoros Completed**: 6
+
+**Today's Progress**:
+- [x] Continue reviewing [the articles](https://medium.com/how-i-started-learning-coding-from-scratch/advices-for-109-written-assessment-part-1-6f7fa821cf84) in Srdjan's review (review-ception)
+  - [x] [Ruby Object’s Mutating and Non-Mutating Methods](https://launchschool.medium.com/ruby-objects-mutating-and-non-mutating-methods-78023d849a5f)
+    - [x] Continue from **Mutating Methods**
+    - [x] Revise notes
+  - [x] [Object Passing in Ruby — Pass by Reference or Pass by Value](https://launchschool.medium.com/ruby-objects-mutating-and-non-mutating-methods-78023d849a5f)
+    - [x] Continue from **Pass by Reference**
+    - [x] Revise notes
+- [x] Input Anki cards
+  - [x] From Object Passing notes
+
+**My Feelings**: I thought since I'm already making a to do list in markdown every day I might as well include it here! And wow, I got through a lot of material today. Finally finished reviewing the article series on object passing and I felt I grasped far more on what was my 3rd pass of the material. Doesn't seem as conceptually dense and impenetrable anymore. The circuitousness path of mastery based learning really seems to work.
+
 ### Days 173: Monday August 16, 2021
 
 **Pomodoros Completed**: 5
