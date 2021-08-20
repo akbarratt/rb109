@@ -2,7 +2,29 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
-### Days 174: Tuesday August 17, 2021
+### Day 176: Thursday August 19, 2021
+
+**Pomodoros Completed**: 4
+
+**Today's Progress**:
+- [x] Input Anki cards
+  - [x] From Object Passing notes
+- [x] Continue reviewing [the articles](https://medium.com/how-i-started-learning-coding-from-scratch/advices-for-109-written-assessment-part-1-6f7fa821cf84) in Srdjan's review (review-ception)
+  - [x] [Variables as Pointers](https://launchschool.com/books/ruby/read/more_stuff#variables_as_pointers)
+    - [x] Revise notes
+- [x] Sign up for a study group
+
+**My Feelings**: Got less done than expected because I had some physical and emotional recovery to do from the day before. Will have to try to catch back up tomorrow.
+
+### Day 175: Wednesday August 18, 2021
+
+**Pomodoros Completed**: 0
+
+**Today's Progress**: N/A
+
+**My Feelings**: Today went off the RAILS with numerous unscheduled tasks that consumed my day. Very annoying.
+
+### Day 174: Tuesday August 17, 2021
 
 **Pomodoros Completed**: 6
 
@@ -19,7 +41,7 @@ Logging my progress so I can make commits even on days I push no code. Numbering
 
 **My Feelings**: I thought since I'm already making a to do list in markdown every day I might as well include it here! And wow, I got through a lot of material today. Finally finished reviewing the article series on object passing and I felt I grasped far more on what was my 3rd pass of the material. Doesn't seem as conceptually dense and impenetrable anymore. The circuitousness path of mastery based learning really seems to work.
 
-### Days 173: Monday August 16, 2021
+### Day 173: Monday August 16, 2021
 
 **Pomodoros Completed**: 5
 
@@ -27,7 +49,7 @@ Logging my progress so I can make commits even on days I push no code. Numbering
 
 **My Feelings**: Could have done more today. Let household chores take priority. Still, a good start to the week. Feel I can do more tomorrow. Always hard coming off an unfocused weekend.
 
-### Days 172: Sunday August 15, 2021
+### Day 172: Sunday August 15, 2021
 
 **Pomodoros Completed**: 0
 
@@ -35,7 +57,7 @@ Logging my progress so I can make commits even on days I push no code. Numbering
 
 **My Feelings**: I've been officially subscribed at Launch School for 6 months. Mixed feelings. Happy that I'm sticking with it, but a little anxious about assessment prep. This is the first big hurdle and until I jump it I'm kind of in a limbo of self-doubt. Gotta keep pushing ahead.
 
-### Days 171: Saturday August 14, 2021
+### Day 171: Saturday August 14, 2021
 
 **Pomodoros Completed**: 2
 
@@ -43,7 +65,7 @@ Logging my progress so I can make commits even on days I push no code. Numbering
 
 **My Feelings**: Focusing has been really, really tough the last few days. A lot of things on my mind. Really pulling out every trick in the book and not having a lot of success. Trying to write it all out and see if that helps.
 
-### Days 170: Friday August 13, 2021
+### Day 170: Friday August 13, 2021
 
 **Pomodoros Completed**: 7
 
@@ -51,7 +73,7 @@ Logging my progress so I can make commits even on days I push no code. Numbering
 
 **My Feelings**: Decided to stop being timid and just dive in to a study session so I could get a better idea of how to prepare for the assessment. Glad I did, it gave me a lot of clarity and direction. But man, it really sapped my brain power. Gonna need to build up some mental stamina for the test.
 
-### Days 169: Thursday August 12, 2021
+### Day 169: Thursday August 12, 2021
 
 **Pomodoros Completed**: 7
 
@@ -59,7 +81,7 @@ Logging my progress so I can make commits even on days I push no code. Numbering
 
 **My Feelings**: Had a much better day today. Wrote out my anxieties and did some planning before sitting down to work. That seemed to help a lot. Revising notes and synthesizing concepts is tough work, especially since I find it impossible to do with music on, but I'm slowly making progress.
 
-### Days 168: Wednesday August 11, 2021
+### Day 168: Wednesday August 11, 2021
 
 **Pomodoros Completed**: 1
 
@@ -67,7 +89,7 @@ Logging my progress so I can make commits even on days I push no code. Numbering
 
 **My Feelings**: Um... A little sheepish about this one. Just could not find the focus, kept getting distracted. Feeling anxious about the assessment and other things in my life lead to a lot of avoidance. The good news is that days like this used to be far more frequent for me and are lessening with time and practice. Try to do better tomorrow...
 
-### Days 167: Tuesday August 10, 2021
+### Day 167: Tuesday August 10, 2021
 
 **Pomodoros Completed**: 6
 
