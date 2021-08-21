@@ -2,6 +2,17 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Day 177: Friday August 20, 2021
+
+**Pomodoros Completed**: 3
+
+**Today's Progress**:
+- [x] Input Anki cards
+- [x] Review talk on Bloom's Taxonomy
+- [ ] Practice writing problems
+
+**My Feelings**: Friday's are always busy, but it doesn't help that I feel like I'm at kind of an impasse in my studies. Will dedicate more time tomorrow to figuring that out. Reviewing that student talk did help me start to figure out how to focus.
+
 ### Day 176: Thursday August 19, 2021
 
 **Pomodoros Completed**: 4
