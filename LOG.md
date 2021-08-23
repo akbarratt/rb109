@@ -2,6 +2,14 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Days 178-179: Saturday August 21, 2021 - Sunday August 22, 2021
+
+**Pomodoros Completed**: 0
+
+**Today's Progress**: N/A
+
+**My Feelings**: Running behind schedule but took some time off this weekend to recalibrate and strategize since I seem to be having so much trouble digging into study for the assessments. I know enough about myself to know this is an emotional problem, not a lack of capability. However, that is still sometimes hard to believe.
+
 ### Day 177: Friday August 20, 2021
 
 **Pomodoros Completed**: 3
