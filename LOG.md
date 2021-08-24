@@ -2,6 +2,17 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Day 180: Monday August 23, 2021
+
+**Pomodoros Completed**: 7
+
+**Today's Progress**:
+- [x] Read LS Student Blogs on 109 Prep
+- [x] Figure out my mental block
+- [x] Begin organizing practice test
+
+**My Feelings**: I did better than I expected today! Set my expectations low, tried to really dig in and figure out what I needed to do and pursue in order to make myself feel more comfortable with the material at hand. Reading about other peoples' experiences has given me some good ideas.
+
 ### Days 178-179: Saturday August 21, 2021 - Sunday August 22, 2021
 
 **Pomodoros Completed**: 0
