@@ -2,6 +2,18 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Day 181: Tuesday August 24, 2021
+
+**Pomodoros Completed**: 5
+
+**Today's Progress**:
+- [x] Begin RB101 indexing
+  - [x] Begin "Intro to Programming"
+- [x] Assemble practice questions
+  - [x] From RB101 through Lesson 4
+
+**My Feelings**: It's a miracle I got anything at all done today because there were meltdowns happening at home. I just have to steal time to work where I can and keep pushing through. I'm gonna have the same problems when I'm working too, so best to try to adjust to it now.
+
 ### Day 180: Monday August 23, 2021
 
 **Pomodoros Completed**: 7
