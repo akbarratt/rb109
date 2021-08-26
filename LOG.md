@@ -2,6 +2,22 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Day 182: Wednesday August 25, 2021
+
+**Pomodoros Completed**: 10
+
+**Today's Progress**:
+- [ ] ~~Study w/another student~~
+- [x] Assemble practice questions
+    - [x] Lesson 2 Quiz
+    - [x] Lesson 4 Quiz
+    - [x] Lesson 5 Quiz
+- [x] Practice test
+  - [x] Assemble the test
+  - [x] Take the test
+
+**My Feelings**: This is close to the most work I've ever done in a day, which is ridiculous because I had a family emergency later and sadly had to cancel a study session with another student. I wanted to just rip off the Band-Aid and get a feel for what the written assessment was going to be like, so I made up a fake one for myself. Tomorrow I will analyze my answers and I think that should give me a good idea of what I need to work on.
+
 ### Day 181: Tuesday August 24, 2021
 
 **Pomodoros Completed**: 5
