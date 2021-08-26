@@ -414,3 +414,5 @@ puts numbers
 On Line 1, local variable `numbers` is initialized and set to reference the array of integers `[1, 2, 2, 3]`. On Line 2, the `uniq` method is called on the array referenced by `numbers`. On Line 4 the `puts` method is called and passed the object referenced by `numbers` as argument. This code outputs `1 2 2 3` and returns `nil`.
 
 This is an example of mutability in Ruby. `uniq` is not a mutating method, so when it is called on the array referenced by `numbers`, no permanent changes are made to the array. Therefore when it is printed with `puts` on Line 4, it is unchanged. The `puts` method always returns `nil`.
+
+Immediate notes: Typora fucking crashed multiple times, the timer website didn't fucking work. That is bad fucking news.
