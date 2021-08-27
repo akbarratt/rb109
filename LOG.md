@@ -2,6 +2,18 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+### Day 183: Thursday August 26, 2021
+
+**Pomodoros Completed**: 6
+
+**Today's Progress**:
+- [x] Fix `git`
+- [x] Clone `ls_notes` repo to local Documents
+  - [x] Locate and delete duplicates
+- [x] SPOT Study Session at 4PM EDT
+
+**My Feelings**: I'm glad I attempted some practice questions yesterday because I think that prepared me to make good use of today's SPOT study session. Still need to review my answers in more depth but got some clarity from the lead and other students. Also wrestled with some `GitHub` authentication issues and backed up my notes.
+
 ### Day 182: Wednesday August 25, 2021
 
 **Pomodoros Completed**: 10
