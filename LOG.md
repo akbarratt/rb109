@@ -2,7 +2,17 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
-## Days -186: Saturday August 28, 2021 - Sunday August 29, 2021
+## Day 187: Monday August 30, 2021
+
+**Pomodoros Completed**: 4
+
+**Progress**:
+- [x] Fix GitHub repo issue
+- [x] Review Anki backlog
+
+**My Feelings**: Big time suck today trying to get my notes repository sorted out. Starting to get aggravated with myself.
+
+## Days 185-186: Saturday August 28, 2021 - Sunday August 29, 2021
 
 **Pomodoros Completed**: 0
 
