@@ -2,6 +2,10 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+___
+*Unscheduled break for health 8/31 - 9/5 (6 days). My chronic pain condition flared up and I got knocked out for almost a week. At the urging of my spouse, I took some time off to take care of myself. Once the initial stress of falling behind schedule wore off, I was glad I took some time to reassess my goals and adjust my expectations, which I had unintentionally allowed to get out of control. Aiming a bit lower for the forseeable future.*
+___
+
 ## Day 187: Monday August 30, 2021
 
 **Pomodoros Completed**: 4
