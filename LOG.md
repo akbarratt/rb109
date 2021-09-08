@@ -2,6 +2,17 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+## Day 189: Tuesday September 7, 2021
+
+**Pomodoros Completed**: 6
+
+**Progress**:
+- [x] Review Anki backlog
+- [x] Take notes on Practice Test observations and improvements
+- [x] Schedule a study session
+
+**My Feelings**: A fairly successful day reviewing the practice test I took a few weeks ago. It's really difficult to evaluate myself. I was able to identify some knowledge gaps so that should guide me through the rest of the week.
+
 ## Day 188: Monday September 6, 2021
 
 **Pomodoros Completed**: 3
