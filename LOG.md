@@ -2,6 +2,14 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+## Day 190: Wednesday September 8, 2021
+
+**Pomodoros Completed**: 0
+
+**Progress**: N/A
+
+**My Feelings**: Had a migraine today so couldn't work. I feel my body is testing my resolve in trying to stay optimistic and lower my expectations without getting too down on myself. OOF.
+
 ## Day 189: Tuesday September 7, 2021
 
 **Pomodoros Completed**: 6
