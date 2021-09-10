@@ -2,6 +2,16 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+## Day 191: Thursday September 9, 2021
+
+**Pomodoros Completed**: 4
+
+**Progress**:
+- [x] Review notes on last study session
+- [x] Continue RB101 Outline
+
+**My Feelings**: Still feeling crummy today but tried to steal those moments when I was feeling okay enough to study. Lord it's been an arduous week.
+
 ## Day 190: Wednesday September 8, 2021
 
 **Pomodoros Completed**: 0
