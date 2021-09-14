@@ -2,6 +2,22 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+## Day 196: Tuesday September 14, 2021
+
+**Pomodoros Completed**:
+
+**Progress**:
+
+**My Feelings**:
+
+## Day 192-195: Friday September 10, 2021 - Monday September 13, 2021
+
+**Pomodoros Completed**: 0
+
+**Progress**: N/A
+
+**My Feelings**: Health problems becoming difficult to ignore, so had to break. And at the risk of getting tangential, I feel like I'm counting the days inconsistently. Sometimes I count days where I don't do work as days I've been at Launch School, other times I omit them. Need to choose one or the other I think. Right now I'm using some vague criterion to judge whether the days off feel "earned" or not and that's not really useful.
+
 ## Day 191: Thursday September 9, 2021
 
 **Pomodoros Completed**: 4
