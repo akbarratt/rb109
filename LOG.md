@@ -4,11 +4,15 @@ Logging my progress so I can make commits even on days I push no code. Numbering
 
 ## Day 196: Tuesday September 14, 2021
 
-**Pomodoros Completed**:
+**Pomodoros Completed**: 9
 
 **Progress**:
+- [x] Watch SPOT talk
+- [x] Spot Study Group
+  - [x] Reformat notes
+- [x] Anki backlog
 
-**My Feelings**:
+**My Feelings**: A really good day today. It can be hard to face that mental hurdle of showing up for a study group, but when I do I feel it boosts my confidence and will to keep going. Which is good because I have another one tomorrow.
 
 ## Day 192-195: Friday September 10, 2021 - Monday September 13, 2021
 
