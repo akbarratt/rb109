@@ -2,6 +2,16 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+## Day 197: Wednesday September 15, 2021
+
+**Pomodoros Completed**: 4
+
+**Progress**:
+- [x] LS Study Session
+  - [x] Reformat notes
+
+**My Feelings**: Another study session early this morning. This one brought a lot of clarity and I'm feeling more confident in my answers and assessment readiness. I have a clear path forward and know the steps I need to take to get there.
+
 ## Day 196: Tuesday September 14, 2021
 
 **Pomodoros Completed**: 9
