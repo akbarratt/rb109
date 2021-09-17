@@ -2,6 +2,17 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+## Day 198: Thursday September 16, 2021
+
+**Pomodoros Completed**: 4
+
+**Progress**:
+- [x] Review study session notes
+- [x] Continue RB101 Outline
+  - [x] Fix Outline
+
+**My Feelings**: On busy days I'm trying to find time where I can, even if it's not part of my normal routine. Squeezed a couple hours in this evening, I think that should help keep me caught up. Seems that a little bit every day is better right now than meeting a weekly quota. Retention is what I need for the assessment.
+
 ## Day 197: Wednesday September 15, 2021
 
 **Pomodoros Completed**: 4
