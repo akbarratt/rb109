@@ -2,6 +2,18 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+## Day 199: Monday September 27, 2021
+
+**Pomodoros Completed**: 3
+
+**Progress**:
+- [x] Continue RB101 Outline
+
+**My Feelings**: Getting back into things. A lot of catching up to do today. Will aim for more work tomorrow.
+___
+*Unscheduled break for health **9/17 - 9/26** (10 days). It concerns me how many days I've had to take off from Launch School in the last 2 months. However, I have been seeking advice from my doctor and recently got some answers as to why I may have been having more severe symptoms than typical for me. It's both a relief and a bit of a stressor, as I'm worried my current state will become my "new normal", but either way, I am working on adapting. Still trying to find the balance between resilience and overwork.*
+___
+
 ## Day 198: Thursday September 16, 2021
 
 **Pomodoros Completed**: 4
