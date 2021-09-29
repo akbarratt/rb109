@@ -2,6 +2,17 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Newest entries first.
 
+## Day 200: Tuesday September 28, 2021
+
+**Pomodoros Completed**: 5
+
+**Progress**:
+- [x] Read student blog
+- [x] Catch up on messages
+- [x] Anki backlog
+
+**My Feelings**: Put in more time today but it somehow felt less productive. Back at it tomorrow.
+
 ## Day 199: Monday September 27, 2021
 
 **Pomodoros Completed**: 3
