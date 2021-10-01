@@ -2,6 +2,18 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Only counting active working days but trying to log all time off. Newest entries first.
 
+## Day 157: Thursday September 30, 2021
+
+**Pomodoros Completed**: 6
+
+**Progress**:
+- [x] Anki
+  - [x] Input new cards
+  - [x] Catch up on backlog
+- [x] Continue RB101 Outline
+
+**My Feelings**: Trying to find today was a struggle but I did it. Starting to get so annoyed by my lack of progress that it's spurring me to action. Whatever works, I guess...
+
 ## Day 156: Wednesday September 29, 2021
 
 **Pomodoros Completed**: 2
