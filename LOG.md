@@ -2,6 +2,19 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Only counting active working days but trying to log all time off. Newest entries first.
 
+## Day 158: Friday October 1, 2021
+
+**Pomodoros Completed**: 4
+
+**Progress**:
+- [x] Anki
+  - [x] Input new cards
+  - [x] Catch up on backlog
+- [x] Continue RB101 Outline
+  - [x] Complete "Intro to Ruby" book outline
+
+**My Feelings**: I finally finished outlining/reviewing the Ruby book so that was a big item checked off today.
+
 ## Day 157: Thursday September 30, 2021
 
 **Pomodoros Completed**: 6
