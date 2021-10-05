@@ -2,6 +2,24 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Only counting active working days but trying to log all time off. Newest entries first.
 
+## Day 159: Monday October 4, 2021
+
+**Pomodoros Completed**: 5
+
+**Progress**:
+- [x] Read 109 prep articles
+- [x] Continue outlining 101
+
+**My Feelings**: Output was pretty good today. Always feels good to get to work straight away on a Monday.
+
+## Saturday October 2, 2021 - Sunday October 3, 2021
+
+**Pomodoros Completed**: 0
+
+**Progress**: N/A
+
+**My Feelings**: Didn't work this weekend. Meant to, but didn't make any solid plans. I'm trying to aim my expectations a bit lower. This was still the most productive week I've had in months however. Will aim a little higher next week.
+
 ## Day 158: Friday October 1, 2021
 
 **Pomodoros Completed**: 4
