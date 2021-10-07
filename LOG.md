@@ -2,6 +2,23 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Only counting active working days but trying to log all time off. Newest entries first.
 
+## Day 160: Tuesday October 6, 2021
+
+**Pomodoros Completed**: 3
+
+**Progress**:
+- [x] Checking messages
+
+**My Feelings**: I try to count all work but this was mostly catching up on Slack. Should have prioritized better.
+
+## Tuesday October 5, 2021
+
+**Pomodoros Completed**: 0
+
+**Progress**: N/A
+
+**My Feelings**: Family chaos required my attention today. When it starts before 10am you know it's gonna be a day.
+
 ## Day 159: Monday October 4, 2021
 
 **Pomodoros Completed**: 5
