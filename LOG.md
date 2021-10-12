@@ -2,7 +2,33 @@
 
 Logging my progress so I can make commits even on days I push no code. Numbering continued from RB101/LOG.md. Only counting active working days but trying to log all time off. Newest entries first.
 
-## Day 160: Tuesday October 6, 2021
+## Saturday October 9, 2021 - Monday, October 11, 2021
+
+**Pomodoros Completed**: 0
+
+**Progress**: N/A
+
+**My Feelings**: Oh boy. I mean I've been at this point for a while but I'm kind of running out of excuses here. I did have a very packed weekend and did need some rest. Parenting duties consumed all of Monday. It's been really challenging for me to adjust to 109.
+
+## Day 162: Friday October 8, 2021
+
+**Pomodoros Completed**: 2
+
+**Progress**:
+- [x] Continue outlining 101
+
+**My Feelings**: Didn't take notes on today. I think I remember running out of time in my day and feeling frustrated because it's been hard to prioritize work.
+
+## Day 161: Thursday October 7, 2021
+
+**Pomodoros Completed**: 3
+
+**Progress**:
+- [x] Continue outlining 101
+
+**My Feelings**: Continuing my overview/outling of the 101 material and it's so much more dense than I remembered. And I don't think I rushed through it! But knowing the importance of detail to the curriculum now, perhaps I'm picking up on more.
+
+## Day 160: Wednesday October 6, 2021
 
 **Pomodoros Completed**: 3
 
